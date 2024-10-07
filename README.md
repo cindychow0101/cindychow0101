@@ -13,4 +13,4 @@ I’m a finance graduate with a focus on data analysis and visualization. I enjo
 - **Tools**: VS Code, Power BI, SQLite
 
 ## 📫 Connect with Me
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/cindy-chow-56899432a/)
+- [LinkedIn](https://www.linkedin.com/in/cindy-chow-56899432a/)
