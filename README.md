@@ -1,0 +1,16 @@
+# 👋 Hey there! I'm Cindy.
+
+### Junior Data Analyst  
+📊 Passionate about data-driven insights | Always eager to learn
+
+---
+
+## 🚀 About Me
+I’m a finance graduate with a focus on data analysis and visualization. I enjoy turning complex data into actionable insights and am dedicated to continuous learning.
+
+## 🛠 Skills
+- **Languages**: Python, SQL
+- **Tools**: VS Code, Power BI, SQLite
+
+## 📫 Connect with Me
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/cindy-chow-56899432a/)
