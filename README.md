@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Cindy.
 
-### 📊 Passionate about data-driven insights | Always eager to learn
+#### 📊 Passionate about data-driven insights | Always eager to learn
 
 ---
 
