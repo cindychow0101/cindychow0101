@@ -1,6 +1,5 @@
 # 👋 Hey there! I'm Cindy.
 
-### Junior Data Analyst
 📊 Passionate about data-driven insights | Always eager to learn
 
 ---
