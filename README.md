@@ -9,7 +9,7 @@ I’m a finance graduate with a focus on data analysis and visualization. I enjo
 
 ## 🛠 Skills
 - **Languages**: Python, SQL
-- **Tools**: VS Code, Power BI, SQLite, Microsoft Azure
+- **Tools**: VS Code, Power BI, SQLite
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/cindy-chow-56899432a/)
